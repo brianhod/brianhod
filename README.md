@@ -12,6 +12,6 @@ List of interesting projects for your .net core project.
 - https://www.webdevtutor.net/blog/build-resilient-http-clients-in-c-sharp-on-dotnet-with-polly
 - https://github.com/DapperLib/Dapper
 - https://am.angouri.org/
-
+- http://github.com/LinkedInLearning/11-tips-for-dotnet-6-2486135
 List of addins for visual Studio
 - Roslynator 2022
