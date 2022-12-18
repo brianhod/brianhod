@@ -13,7 +13,7 @@ List of interesting projects for your .net core project.
 - https://github.com/DapperLib/Dapper
 - https://am.angouri.org/
 - http://github.com/LinkedInLearning/11-tips-for-dotnet-6-2486135
-List of addins for visual Studio
+----- List of addins for visual Studio ---
 - Roslynator 2022
-https://marketplace.visualstudio.com/items?itemName=DaxPandhi.Highlighter1
-https://martendb.io/
+- https://marketplace.visualstudio.com/items?itemName=DaxPandhi.Highlighter1
+- https://martendb.io/
