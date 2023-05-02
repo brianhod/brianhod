@@ -17,3 +17,4 @@ List of interesting projects for your .net core project.
 - Roslynator 2022
 - https://marketplace.visualstudio.com/items?itemName=DaxPandhi.Highlighter1
 - https://martendb.io/
+- https://github.com/hkpeaks/peaks-framework
